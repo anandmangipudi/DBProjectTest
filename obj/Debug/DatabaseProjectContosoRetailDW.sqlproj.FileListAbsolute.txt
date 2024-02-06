@@ -1,0 +1,10 @@
+d:\Anand\repos\DatabaseProjectContosoRetailDW\DatabaseProjectContosoRetailDW\bin\Debug\DatabaseProjectContosoRetailDW.dacpac
+d:\Anand\repos\DatabaseProjectContosoRetailDW\DatabaseProjectContosoRetailDW\bin\Debug\DatabaseProjectContosoRetailDW.dll
+d:\Anand\repos\DatabaseProjectContosoRetailDW\DatabaseProjectContosoRetailDW\bin\Debug\DatabaseProjectContosoRetailDW.pdb
+d:\Anand\repos\DatabaseProjectContosoRetailDW\DatabaseProjectContosoRetailDW\obj\Debug\DatabaseProjectContosoRetailDW.sqlproj.AssemblyReference.cache
+d:\Anand\repos\DatabaseProjectContosoRetailDW\DatabaseProjectContosoRetailDW\obj\Debug\Model.xml
+d:\Anand\repos\DatabaseProjectContosoRetailDW\DatabaseProjectContosoRetailDW\obj\Debug\refactor.xml
+d:\Anand\repos\DatabaseProjectContosoRetailDW\DatabaseProjectContosoRetailDW\obj\Debug\postdeploy.sql
+d:\Anand\repos\DatabaseProjectContosoRetailDW\DatabaseProjectContosoRetailDW\obj\Debug\predeploy.sql
+d:\Anand\repos\DatabaseProjectContosoRetailDW\DatabaseProjectContosoRetailDW\obj\Debug\DatabaseProjectContosoRetailDW.dll
+d:\Anand\repos\DatabaseProjectContosoRetailDW\DatabaseProjectContosoRetailDW\obj\Debug\DatabaseProjectContosoRetailDW.pdb

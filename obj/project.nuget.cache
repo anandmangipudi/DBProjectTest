@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eghxu49v1mipf2tat7uu81p6iEjXDCnj7HKVOVoGrWdcpJmyJComEjzX0b5ZeU0c87WCpEmZtQ/CF3n4aaYxWg==",
+  "success": true,
+  "projectFilePath": "d:\\Anand\\repos\\DatabaseProjectContosoRetailDW\\DatabaseProjectContosoRetailDW\\DatabaseProjectContosoRetailDW.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anand\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\anand\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

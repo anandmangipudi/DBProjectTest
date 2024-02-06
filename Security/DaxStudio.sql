@@ -1,0 +1,6 @@
+CREATE SCHEMA [DaxStudio]
+    AUTHORIZATION [dbo];
+
+
+GO
+
